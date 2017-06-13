@@ -1,0 +1,54 @@
+Primo update - mattina 12/6
+
+	+Modificato colori
+	+Messo a posto bottone login
+	+Rimessa la barra superiore nel menù
+	+Rimossa la ripetizione del login ad ogni apertura dell'applicazione
+	+Inserita funzionalità di logout
+	+Fix generale del tasto back tra le varie activity
+	-Alcuni bug nel tasto back in alcune activity
+	
+	
+Secondo update - pomeriggio 12/6
+
+	*GLOBALE
+		+Migliorato il font
+		
+	*MENU
+		+Cambiato titolo
+		+Pulito il codice
+		+Corretto il codice
+		+Ottimizzato il codice
+		+Aggiunto header con nome personalizzato
+		+/-Commentato il codice
+		-Senza selezionare nessuna voce la descrizione degli oggetti della lista rimane "dati"
+		
+	*LOGIN
+		+Ottimizzato il codice
+		+Aggiunta variabile shared per username
+		
+	*DESCRIZIONE INTERVENTO
+		+Aggiornato nome variabili
+
+
+Terzo update - mattina 13/6
+	
+	*GLOBALE
+		+Migliorato il logo WORK-i
+		+Tasto back funzionante su tutte le activity
+
+	*MENU
+		+Migliorate icone dei loghi della sidebar
+		+Inserita una connessione alle DriveApi
+		+All'apertura del menù i dati vengono immediatamente inizializzati al primo indice della lista
+		-La connessione a drive non funziona
+		
+	*LOGIN
+		+Campo password
+		+Migliorato bottone
+
+	*PROFILO
+		+Aggiunto bottone salva
+		+Modificato bottone cambia immagine
+		+Diviso il campo "nome e cognome" in due campi separati
+		+Migliorati i campi data e email
