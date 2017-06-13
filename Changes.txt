@@ -52,3 +52,24 @@ Terzo update - mattina 13/6
 		+Modificato bottone cambia immagine
 		+Diviso il campo "nome e cognome" in due campi separati
 		+Migliorati i campi data e email
+
+
+Quarto update - pomeriggio 13/6
+	
+	*GLOBALE
+		+Migliorato il codice
+		+Migliorati i nomi delle risorse
+
+	*MENU
+		+Aggiunta memorizzazione dell'immagine
+		
+	*AGGIUNGI DESCRIZIONE, SPESE INTERVENTO
+		+Sistemato il layout
+
+	*PROFILO
+		+Aggiunto tasto reset immagine
+		+Funzionalizzato il tasto reset immagine
+		+Aggiunto username utente nell'apposito campo
+		+Aggiunto salvataggio 
+		+Aggiunta memorizzazione dell'immagine
+		-Tasto "X" con grafica non ideale
