@@ -73,3 +73,23 @@ Quarto update - pomeriggio 13/6
 		+Aggiunto salvataggio 
 		+Aggiunta memorizzazione dell'immagine
 		-Tasto "X" con grafica non ideale
+
+
+Quinto update - mattina 14/6
+	
+	*GLOBALE
+		+Migliorato il codice
+		+Modificato alcune stringhe
+
+	*MENU
+		+Aggiunta immagine rotonda
+		
+	*INVIO FIRME, SPESE INTERVENTO
+		+Sistemato il layout
+
+	*PROFILO
+		+Aggiunta immagine rotonda
+		+Corretta la grafica della "X"
+		+Aggiunto sistema di riconoscimento per la dimensione immagine
+		+Aggiunti sistemi di blocco del salvataggio e notifica utente durante il cambio dell'immagine
+		
