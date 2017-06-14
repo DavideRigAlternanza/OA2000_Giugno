@@ -92,4 +92,33 @@ Quinto update - mattina 14/6
 		+Corretta la grafica della "X"
 		+Aggiunto sistema di riconoscimento per la dimensione immagine
 		+Aggiunti sistemi di blocco del salvataggio e notifica utente durante il cambio dell'immagine
+
+
+Sesto update - pomeriggio 14/6
+	
+	*GLOBALE
+		+Migliorato il codice
+		+Aggiunta ico_arrowspinner (per un successivo utilizzo in activity_intervento.xml)
+
+	*MENU
+		+Memorizzazione campo E-Mail
+		+Aggiunto campo E-Mail personalizzato
+		+Aggiunto sistema di priorità per il messaggio di benvenuto (username - bassa, nome - alta)
+		-Sovrapposizione della barra di attività sul menù di navigazione con alcune risoluzioni
+		
+	*INVIO FIRME
+		+Perfezionate le editText
+
+	*DESCRIZIONE INTERVENTO
+		+Sistemato il layout
+		+Corrette editText
+
+	*PROFILO
+		+Ottimizzato il codice
+		+Migliorato il codice
+		+Commentato il codice
+		+Raffinato il sistema di selezione immagine con opportuni controlli
+		+Aggiunto l'inserimento dei campi "Nome", "Cognome" ed "E-Mail"
+		+Implementata una memorizzazione dei campi sopra
+		
 		
