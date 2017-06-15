@@ -121,4 +121,31 @@ Sesto update - pomeriggio 14/6
 		+Aggiunto l'inserimento dei campi "Nome", "Cognome" ed "E-Mail"
 		+Implementata una memorizzazione dei campi sopra
 		
-		
+Settimo update - mattina 15/6
+
+	*GLOBALE
+		+Migliorato il codice
+		+Aggiunto un colore
+		+Implementato un nuovo sistema di memorizzazione utente
+
+	*LOGIN
+		+Implementato un nuovo sistema di memorizzazione utente
+		+Aggiunti controlli password e nome utente rispetto al nuovo sistema di memorizzazione
+
+	*MENU
+		+Migliorato il codice
+		+Modificate le dimensioni della navbar
+		+Implementato un nuovo sistema di memorizzazione utente
+		+Modificato il funzionamento della ListViewInterventi rendendolo più intuitivo e snello
+		-Rimane la scritta dati 
+
+	*ACTIVITY INTERVENTO
+		+Aggiunti ed eliminati alcuni campi
+		+Migliorati i sistemi di input dell'ora e calendario
+		+Aggiunta icona calendario (in sostituzione alla ico_arrowspinner 
+
+	*PROFILO
+		+Ottimizzato il codice
+		+Migliorato il codice
+		+Commentato il codice
+		+Implementato un nuovo sistema di memorizzazione utente
