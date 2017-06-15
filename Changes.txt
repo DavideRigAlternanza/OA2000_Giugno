@@ -121,6 +121,7 @@ Sesto update - pomeriggio 14/6
 		+Aggiunto l'inserimento dei campi "Nome", "Cognome" ed "E-Mail"
 		+Implementata una memorizzazione dei campi sopra
 		
+
 Settimo update - mattina 15/6
 
 	*GLOBALE
@@ -149,3 +150,17 @@ Settimo update - mattina 15/6
 		+Migliorato il codice
 		+Commentato il codice
 		+Implementato un nuovo sistema di memorizzazione utente
+
+
+Ottavo update pt.1 - pomeriggio 15/6
+
+	*MENU
+		+Migliorato il funzionamento della ListViewInterventi
+		+Rimossi dei riferimenti alla scritta dati 
+		-Rimane la scritta dati
+		-Il tap è blu (?)
+
+	*PROFILO
+		+Aggiunta nuova icona calendario per profilo
+		+Messi dei controlli automatici per l'inserimento della data
+		+Aggiunto il salvataggio per la data
