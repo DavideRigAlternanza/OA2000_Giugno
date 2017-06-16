@@ -164,3 +164,17 @@ Ottavo update pt.1 - pomeriggio 15/6
 		+Aggiunta nuova icona calendario per profilo
 		+Messi dei controlli automatici per l'inserimento della data
 		+Aggiunto il salvataggio per la data
+
+
+Ottavo update pt.2 - pomeriggio 15/6
+
+	*GLOBALE
+		+Aggiunti file XML per l'evidenziatura dell'elemento selezionato (listview_bkg.xml, listview_pressed.xml, listview_normal.xml)  
+		-Rimane evidenziato solo al click, dopo lo sfondo torna trasparente
+
+	*MENU
+		+Rimossa l'evidenziatura del menù selezionato nella navigation bar
+		+Rimossa la textView dei dati
+
+	*PROFILO
+		+Ripristinato il corretto caricamento dell'icona
