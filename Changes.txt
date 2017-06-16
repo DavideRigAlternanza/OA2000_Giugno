@@ -178,3 +178,23 @@ Ottavo update pt.2 - pomeriggio 15/6
 
 	*PROFILO
 		+Ripristinato il corretto caricamento dell'icona
+
+Nono update - matttina 16/6
+
+	*MENU
+		+Perfezionata la visualizzazione dei dati intervento
+		+Aggiunto un separatore azzuro più grande fra gli interventi
+		-Il FAB non funziona più
+		-L'icona del FAB è trasparente
+
+	*PROFILO
+		+Rimosso un bug per cui l'immagine di profilo veniva riconosciuta come di dimensioni eccedenti
+		+Migliorato il codice
+		+Ottimizato il codice
+		+Commentato il codice
+		+Integrata al calendario un'autoselezione della data già precompilata
+
+	*RAPPORTO
+		+Rimosso layout precedente
+		+Iniziato layout a cascata
+		-Mancano animazioni (fading o sliding)
