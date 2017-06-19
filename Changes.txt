@@ -179,7 +179,8 @@ Ottavo update pt.2 - pomeriggio 15/6
 	*PROFILO
 		+Ripristinato il corretto caricamento dell'icona
 
-Nono update - matttina 16/6
+
+Nono update - mattina 16/6
 
 	*MENU
 		+Perfezionata la visualizzazione dei dati intervento
@@ -198,3 +199,29 @@ Nono update - matttina 16/6
 		+Rimosso layout precedente
 		+Iniziato layout a cascata
 		-Mancano animazioni (fading o sliding)
+
+
+Decimo update - pomeriggio 16/6
+
+	*GLOBALE
+		+Aggiunte icone
+		-Le spese sono ancora nella sidebar
+
+	*MENU
+		+Messo in sovraimpressione il FAB
+		+Aggiunto un collegamento funzionante con Google Drive
+		+Provate varie possibilità delle API Google come "creazione file" e "lettura file"
+		+Commentato il codice
+
+	*PROFILO
+		+Commentato il codice
+
+	*INTERVENTO
+		+Aggiunto il campo "presso"
+
+	*RAPPORTO
+		+Rivoluzionato interamente l'activity
+		+Aggiunti menù a cascata per varie sezioni di compilazione
+		+Aggiunto un collegamento a spese di spedizione
+		-Le spese sono ancora nella sidebar
+		-I bottoni per espandere/comprimere le sezioni sono solo agli angoli
