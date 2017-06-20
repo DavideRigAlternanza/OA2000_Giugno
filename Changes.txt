@@ -288,3 +288,30 @@ Tredicesimo update - mattina 20/6
 		
 	*INTERVENTO
 		+Sistemati tasti calendario difettosi
+
+
+Quattordicesimo update - pomeriggio 20/6
+
+	*GLOBALE
+		+Aggiunto cartella anim (per le animazioni) contenente 2 file XML
+		+Aggiunta classe per la gestione delle cifre decimali
+
+	*MENU
+		+Instaurato un sistema di comunicazione con GDrive e download file
+		-Il file non risulta aggiornato con GDrive
+
+	*PROFILO
+		+Migliorato il pulsante reset calendario
+
+	*RAPPORTO
+		+Migliorate le checkbox
+		+Inserita animazione di fading
+		
+	*INVIO FIRME
+		+Migliorate le checkbox
+
+	*INTERVENTO
+		+Aggiunto controllo orario e decimali
+		+Pulito il codice
+		+Migliorato il codice
+		+Perfezionato controllo orario e decimali
