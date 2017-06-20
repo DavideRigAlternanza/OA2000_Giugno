@@ -270,3 +270,21 @@ Dodicesimo update - pomeriggio 19/6
 		
 	*INTERVENTO
 		+Aggiunto il collegamento a Maps con relativo indirizzo
+
+
+Tredicesimo update - mattina 20/6
+
+	*GLOBALE
+		+Aggiunto e modificato icone
+
+	*MENU
+		+Aggiunto collegamento a GMail
+		+Collegamento a GDrive work in progress
+
+	*RAPPORTO
+		+Sistemati tasti calendario difettosi
+		+Aggiunto e modificato icone
+		+Aggiunta possibilità di inviare mail
+		
+	*INTERVENTO
+		+Sistemati tasti calendario difettosi
