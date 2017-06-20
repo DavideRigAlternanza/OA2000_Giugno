@@ -225,3 +225,48 @@ Decimo update - pomeriggio 16/6
 		+Aggiunto un collegamento a spese di spedizione
 		-Le spese sono ancora nella sidebar
 		-I bottoni per espandere/comprimere le sezioni sono solo agli angoli
+		
+		
+Undicesimo update - mattina 19/6
+
+	*GLOBALE
+		+Aggiunte stringhe
+		+Migliorato il layout
+		+Inserito Item "Nuovo rapporto" nel menù laterale
+		+Spostato Item "Invio firme" dal menù laterale
+		+Eliminato Item "Aggiungi Descrizione" dal menù laterale
+		+Aggiunte ico_buttoninvia e ico_buttoninviapressed
+		-Cliccare l'Item "Nuovo rapporto" non fa accedere al relativo layout
+
+	*RAPPORTO
+		+Aggiunto campo "Invia rapporto" (spostato l'inserimento firme dal menù laterale)
+		+Cliccando l'Item del menù a cascata è possibile estendere il sottomenù (prima solo bottone)
+		+Perfezionato campi d'inserimento
+		+Aggiunto calendario con relativo codice
+		
+	*INTERVENTO
+		+Aggiunto il bottone "salva"
+	
+	*INVIO FIRME
+		+Aggiunto il bottone "invia"
+		
+		
+Dodicesimo update - pomeriggio 19/6
+
+	*GLOBALE
+		+Aggiunte stringhe
+		+Migliorato il layout
+		+Inserito Items nel menù laterale
+		+Eliminato Items dal menù laterale
+		+Aggiunte icone
+		+Sistemato collegamento con l'Item "Nuovo rapporto"
+		+Aggiunto collegamento Maps e Rubrica
+		+Aggiunto collegamento al sito Worki.com
+		+Aggiunto permessi a Manifests
+		-Manca collegamento Drive
+
+	*RAPPORTO
+		+Aggiunto collegamento per telefonata
+		
+	*INTERVENTO
+		+Aggiunto il collegamento a Maps con relativo indirizzo
