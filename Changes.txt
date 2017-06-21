@@ -332,3 +332,30 @@ Quindicesimo update - mattina 21/6
 		+Ottimizzato il codice
 		+Perfezionato controllo orario inserito
 
+
+Sedicesimo update - pomeriggio 21/6
+
+	*GLOBALE
+		+Aggiunta animazione per il bottone, quando viene cliccato
+		+Aggiunta classe specializzata per il controllo della data
+
+	*MENU
+		+Modificato il colore delle icone della sidebar (blu)
+		+Incrementata dimensione della navbar
+
+	*RAPPORTO
+		+Corretta la dimensione dei campi
+		+Migliorato il codice
+		+Ottimizzato il codice
+		+Implementata la nuova classe
+		+Aggiunto switch da-a/tempo impiegato
+		+Implementata il bottone "X" per il reset delle ore
+
+	*PROFILO
+		+Implementata la nuova classe
+
+	*INTERVENTO
+		+Migliorato il codice
+		+Ottimizzato il codice
+		+Perfezionato controllo orario inserito
+		+Implementata la nuova classe
