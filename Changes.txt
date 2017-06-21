@@ -315,3 +315,20 @@ Quattordicesimo update - pomeriggio 20/6
 		+Pulito il codice
 		+Migliorato il codice
 		+Perfezionato controllo orario e decimali
+
+
+Quindicesimo update - mattina 21/6
+
+	*GLOBALE
+		+Cambiato il design dei bottoni (ora fa riferimento al file "buttonShape.xml")
+
+	*RAPPORTO
+		+Ottimizzato il codice
+		+Migliorato il codice
+		+Aggiunta chiusura tastiera su chiusura del menù a cascata
+
+	*INTERVENTO
+		+Migliorato il codice
+		+Ottimizzato il codice
+		+Perfezionato controllo orario inserito
+
