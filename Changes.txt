@@ -385,3 +385,21 @@ Diciassettesimo update - mattina 22/6
 		+Stesa una nuova organizzazione dei campi
 		+Aggiunto salvataggio campi all'interno di un file secondario
 		+Aumentata la dimensione effettiva delle "X"
+
+
+Diciottesimo update - pomeriggio 22/6
+
+	*MENU
+		+Ottimizzato il campo "filtra"
+
+	*RAPPORTO
+		+Modificato radicalmente l'intero layout 
+		-Da rivedere il campo presso
+
+	*INTERVENTO
+		+Modificato radicalmente l'intero layout
+		+Ottimizzato il sistema di switch fra le durate
+		+Inserito il calcolo del tempo totale
+		+Inserito il calcolo dell'importo totale
+		+Inseriti listener vari ai campi per l'update dei totali
+		-Da rivedere gli arrotondamenti dei calcoli
