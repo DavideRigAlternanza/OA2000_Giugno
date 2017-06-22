@@ -359,3 +359,29 @@ Sedicesimo update - pomeriggio 21/6
 		+Ottimizzato il codice
 		+Perfezionato controllo orario inserito
 		+Implementata la nuova classe
+
+
+Diciassettesimo update - mattina 22/6
+
+	*GLOBALE
+		+Stesa una nuova organizzazione del formato
+
+	*MENU
+		+Aggiunta icona filtro
+		+Aggiunto campo filtra
+
+	*LOGIN
+		+Aggiunto link per importare account
+		+Aggiunto funzionamento al link con l'importazione del file "UserImport.txt" nella cartella download
+
+	*RAPPORTO
+		+Aggiunto salvataggio campi all'interno di un file secondario
+		+Stesa una nuova organizzazione dei campi 
+
+	*PROFILO
+		+Implementata la nuova classe
+
+	*INTERVENTO
+		+Stesa una nuova organizzazione dei campi
+		+Aggiunto salvataggio campi all'interno di un file secondario
+		+Aumentata la dimensione effettiva delle "X"
