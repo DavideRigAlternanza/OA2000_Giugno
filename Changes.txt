@@ -427,3 +427,27 @@ Diciannovesimo update - mattina 23/6
 
 	+CHIUSURA2
 		+Modificato il nome
+
+
+Ventesimo update - pomeriggio 23/6
+
+	*GLOBALE
+		+Adattato il sistema di CRecord al nuovo modello .csv
+		+Aggiunta variabile globale per chiudere "ActivityChiusura1" e "ActivityRapporto" su chiusura
+
+	*MENU
+		+Reset della variabile per la chiusura
+
+	*RAPPORTO
+		+Modificato il posizionamento del campo presso
+		+Implementazione di un sistema di chiusura dettato dalla variabile "InterventoChiuso"
+
+	*CHIUSURA1
+		+Aggiunto un salvataggio (su record) per i campi di chiusura
+		+Corretto l'arrotondamento delle campi con numeri in floating point
+		+Aggiunti controlli al record per il salvataggio
+		+Implementazione di un sistema di chiusura dettato dalla variabile "InterventoChiuso"
+
+	+CHIUSURA2
+		+Aggiunto il salvataggio (su file) dell'intervento chiuso
+		+Aggiunti controlli al record per la chiusura
