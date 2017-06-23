@@ -403,3 +403,27 @@ Diciottesimo update - pomeriggio 22/6
 		+Inserito il calcolo dell'importo totale
 		+Inseriti listener vari ai campi per l'update dei totali
 		-Da rivedere gli arrotondamenti dei calcoli
+
+
+Diciannovesimo update - mattina 23/6
+
+	*GLOBALE
+		+Rinominati "Intervento in Chiusura1" e "Chiusura in Chiusura2"
+
+	*MENU
+		+Modificate le icone per il campo "filtra"
+		+Aggiunto un funzionamento al campo "filtra"
+		+Rimosso l'highlight sulle voci della listview, quando selezionate
+		+Implementato un metodo di ritorno all'oggetto della ListView selezionato, se in fondo
+		-Permane il problema dell'evidenziazione permanente che dovrebbe presentarsi una volta selezionato un oggetto della ListView
+
+	*RAPPORTO
+		+Modificato il posizionamento del campo presso
+
+	*CHIUSURA1
+		+Modificato il nome
+		+Modificato il nome del bottone da "Chiudi" ad "Avanti"
+		+Aggiunto un collegamento con l'activity Chiusura2 sul bottone Avanti
+
+	+CHIUSURA2
+		+Modificato il nome
